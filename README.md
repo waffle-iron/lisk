@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LiskHQ/lisk.png?label=ready&title=Ready)](https://waffle.io/LiskHQ/lisk)
 # Lisk
 
 Lisk is a next generation crypto-currency and decentralized application platform, written entirely in JavaScript. For more information please refer to our website: https://lisk.io/.
